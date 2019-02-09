@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": "git@github.com:jasonvasquez/aws-sdk-browserify.git",
   "devDependencies": {
-    "browserify": "^8.1.3"
+    "browserify": "^16.2.3"
   },
   "dependencies": {
     "aws-sdk": "^2.1.8"
