@@ -1,5 +1,7 @@
 # aws-sdk + browserify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jasonvasquez/aws-sdk-browserify.svg)](https://greenkeeper.io/)
+
 This is a demonstration app for the issues I'm having using aws-sdk with browserify.
 
 ### How to test
